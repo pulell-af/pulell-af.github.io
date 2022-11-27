@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: Statistics Blog
 
 # Your name to show in the footer
-author: Some Person
+author: Ferdinando Pulella
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,10 +21,17 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Homeworks:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Homework 1: "https://www.markdowntutorial.com/"
+    - Homework 2: "https://www.markdowntutorial.com/"
+    - Homework 3: "https://www.markdowntutorial.com/"
+    - Homework 4: "https://www.markdowntutorial.com/"
+    - Homework 5: "https://www.markdowntutorial.com/"
+    - Homework 6: "https://www.markdowntutorial.com/"
+    - Homework 7: "https://www.markdowntutorial.com/"
+    - Homework 8: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
