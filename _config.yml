@@ -22,14 +22,15 @@ author: Ferdinando Pulella
 navbar-links:
   About Me: "aboutme"
   Homeworks:
-    - Homework 1: "homework1"
-    - Homework 2: "aboutme"
-    - Homework 3: "aboutme"
-    - Homework 4: "aboutme"
-    - Homework 5: "aboutme"
-    - Homework 6: "aboutme"
-    - Homework 7: "aboutme"
-    - Homework 8: "aboutme"
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Homework 1: "https://www.markdowntutorial.com/"
+    - Homework 2: "https://www.markdowntutorial.com/"
+    - Homework 3: "https://www.markdowntutorial.com/"
+    - Homework 4: "https://www.markdowntutorial.com/"
+    - Homework 5: "https://www.markdowntutorial.com/"
+    - Homework 6: "https://www.markdowntutorial.com/"
+    - Homework 7: "https://www.markdowntutorial.com/"
+    - Homework 8: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
 
 ################
@@ -55,20 +56,20 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "ferdinandopulella18@gmail.com"
+  email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  #facebook: deanattali
-  github: pulell-af
-  #twitter: daattali
-  #patreon: DeanAttali
-  #youtube: c/daattali
+  facebook: deanattali
+  github: daattali
+  twitter: daattali
+  patreon: DeanAttali
+  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
- instagram: pulell_af
+#  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -93,10 +94,10 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
+  twitter: true
+  facebook: true
   linkedin: true
-  instagram: true
+  vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -295,4 +296,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
