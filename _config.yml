@@ -23,13 +23,13 @@ navbar-links:
   About Me: "aboutme"
   Homeworks:
     - Homework 1: "homework1"
-    - Homework 2: "homework1"
-    - Homework 3: "homework1"
-    - Homework 4: "https://www.markdowntutorial.com/"
-    - Homework 5: "https://www.markdowntutorial.com/"
-    - Homework 6: "https://www.markdowntutorial.com/"
-    - Homework 7: "https://www.markdowntutorial.com/"
-    - Homework 8: "https://www.markdowntutorial.com/"
+    - Homework 2: "homework2"
+    - Homework 3: "homework3"
+    - Homework 4: "homework4"
+    - Homework 5: "homework5"
+    - Homework 6: "homework6"
+    - Homework 7: "homework7"
+    - Homework 8: "homework8"
 #  Author's home: "https://deanattali.com"
 
 ################
