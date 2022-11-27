@@ -22,10 +22,9 @@ author: Ferdinando Pulella
 navbar-links:
   About Me: "aboutme"
   Homeworks:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Homework 1: "https://www.markdowntutorial.com/"
-    - Homework 2: "https://www.markdowntutorial.com/"
-    - Homework 3: "https://www.markdowntutorial.com/"
+    - Homework 1: "homework1"
+    - Homework 2: "homework1"
+    - Homework 3: "homework1"
     - Homework 4: "https://www.markdowntutorial.com/"
     - Homework 5: "https://www.markdowntutorial.com/"
     - Homework 6: "https://www.markdowntutorial.com/"
