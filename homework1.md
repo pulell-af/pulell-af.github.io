@@ -34,7 +34,7 @@ Statistics and Cyber Threat Intelligence: investigating the relationship between
 # Applications
 ## A1: 
 ### Create a simple application in C# and VB.NET to play with handlers and to understand syntax differences between them two.
-The proposed solution is in the ZIP file that can be found at [this GitHub link](https://github.com/loris30/StatisticsHomework/).
+The proposed solution is in the ZIP file that can be found at [this GitHub link](https://github.com/pulell-af/StatisticsHomeworks/tree/main/Homework1Csharp), for C# and  [this GitHub link](https://github.com/pulell-af/StatisticsHomeworks/tree/main/Homework1VB) for VB.
 
 
 # Research on app
