@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Homework 4
 subtitle: T7, T8, T9, A6, A7, TA5, TA6
 
